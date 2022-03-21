@@ -1539,6 +1539,8 @@ ul.footer-gallery li img{max-width:100%;width:100%;}
 .footer-gallery-zoom li a{color:#fff;}
 .footer-gallery-zoom li a:hover, .footer-gallery-zoom li a:focus{color:#2d2d2d;}
 
+.location-cn{color: #fff !important;font-size: 24px !important;width: 71px;height: 36px;}
+
 
 /* Google Maps */
 
@@ -1624,6 +1626,7 @@ background: linear-gradient(to right, rgba(60,16,83,0.8), rgba(173,83,137,0.8));
    .right-timeline::before{display: none !important;}
    .container-timeline::after{display: none !important;}
    .capt-about{text-align: center;}
+   .location-cn{color: #fff;font-size: 24px !important;width: 54px;height: 36px;}
 }
 
 .for-contact{
